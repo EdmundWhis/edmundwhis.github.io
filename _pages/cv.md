@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * **M.S. in Mathematics**, Universite Paris-Saclay, 2025.
+  * Supervised by Prof. Andrzej Zuk.
 * **M.S. in Mathematics**, Fudan University, 2024.
   * Supervised by Prof. Yijun Yao, graduated with honours.
   * Thesis: *Global Witten deformation on Lie groupoids*.
