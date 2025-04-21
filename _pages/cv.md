@@ -40,3 +40,4 @@ Languages
 ======
 * **Chinese Mandarin**, mother tongue.
 * **English**, C1 (IELTS 7,0), fluent.
+* **Japanese**, N3.
