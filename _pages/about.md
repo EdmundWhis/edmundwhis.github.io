@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 
 I am a 2nd-year master student in [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/).
 
