@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Mathematics**, Universite Paris-Saclay, 2025.
+* **M.S. in Mathematics**, Fudan University, 2024.
+  * Supervised by Prof. Yijun Yao, graduated with honours.
+  * Thesis: *Global Witten deformation on Lie groupoids*.
+* **B.S. in Mathematics** Harbin Institute of Technology, 2021.
+  * Supervised by Prof. Jinsong Wu, graduated with honouts.
+  * Thesis: *Bi-shifts of bi-projections on quantum groups*.
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Functional analysis, operator algebra, geometric group theory, *K*-Theory and non-commutative geometry.
+  
+Teaching and Advising
+======
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Teaching assistant**, Department of Mathematical Science, Fudan University.
+  * TA, *Principle of Mathematical Analysis*, 2021 Fall.
+  * TA, *Complex Analysis*, 2022 Spring.
+  * TA, *Functional Analysis*, 2023 Fall.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Seminar organiser**, Harbin Institute of Technology, 2020-2021.
+  * Seminar, *Measure theory and integration theory*, 2020 Spring.
+  * Seminar, *Group representations and abstract harmonic analysis*, 2020 Fall - 2021 Spring.
+ 
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Chinese Mandarin**, mother tongue.
+* **English**, C1 (IELTS 7,0), fluent.
