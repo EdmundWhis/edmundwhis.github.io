@@ -45,4 +45,4 @@ The project is ongoing and evolving. As my understanding grows, so too does the 
 
 Here is a list of the materials that has completed or has been planned, indexed by academic year. All the materials would be written in **Chinese**.
 * Notes collection of academic year 2022/23: Analytic *K*-Homology and Index Theory.
-* Notes collection of academic year 2021/22: *C\**-Algebras, *K*-Theory and Other Topics.
+* Notes collection of academic year 2021/22: [*C\**-Algebras, *K*-Theory and Other Topics](../assets/notes/2021_22_Collection.pdf).
