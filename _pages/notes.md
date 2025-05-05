@@ -11,12 +11,14 @@ Project 22
 
 **Project 22** is a personal initiative aimed at organising and digitising my academic notes, primarily in mathematics. It includes the original notes from lectures and discussion sections, as well as a growing collection of informal mathematical essays and exploratory writings that often lack a fixed format or clear categorisation. These essays reflect moments of curiosity, insight, and sometimes confusion, captured during my learning process.
 
+Please note that all documents in Project 22 are **CC-BY-NC-SA 4.0**-licensed.
+
 There are several notes published on the column [Project 22](https://www.zhihu.com/column/c_1147569183884824576) Zhihu, a Chinese forum that is still one of the few Chinese platforms suitable for discussing mathematics.
 
 Here is a list of the topics:
 * Year 2024/25
-  * [Harmonic Analysis](../assets/notes/HA_Lecture_Notes.pdf), 2024 Fall, Universite Paris-Saclay.
-  * Index Theory *(under construction)*, 2025 Spring, Universite Paris-Saclay.
+  * [Harmonic Analysis](../assets/notes/HA_Lecture_Notes.pdf), EN1722, taught by Prof. Pascal AUSCHER, 2024 Fall, Universite Paris-Saclay.
+  * [Index Theory](../assets/notes/Index_Theory_Notes.pdf), EN1713, taught by Prof. Martin PUCHOL, 2025 Spring, Universite Paris-Saclay.
 * Year 2023/24
   * Higher Index Theory *(under construction)*, 2023 Fall, Fudan University.
 * Year 2022/23
