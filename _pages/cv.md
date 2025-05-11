@@ -39,5 +39,5 @@ Teaching and Advising
 Languages
 ======
 * **Chinese Mandarin**, mother tongue.
-* **English**, C1 (IELTS 7,0), fluent.
-* **Japanese**, N3.
+* **English**, Proficient, C1, *(IELTS 7,0)*.
+* **Japanese**, Basic, A2, *JLPT N3*.
