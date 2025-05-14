@@ -13,6 +13,7 @@ Education
 ======
 * **M.S. in Mathematics**, Universite Paris-Saclay, 2025.
   * Supervised by [Prof. Andrzej Zuk](https://webusers.imj-prg.fr/~andrzej.zuk/index.html).
+  * Thesis: *Spectral Analysis of Symmetric Random Walks on Groups*.
 * **M.S. in Mathematics**, Fudan University, 2024.
   * Supervised by [Prof. Yijun Yao](https://math.fudan.edu.cn/fa/00/c30607a326144/page.htm), graduated with honours.
   * Thesis: *Global Witten deformation on Lie groupoids*.
@@ -28,13 +29,13 @@ Teaching and Advising
 ======
 
 * **Teaching assistant**, Department of Mathematical Science, Fudan University.
-  * TA, *Principle of Mathematical Analysis*, 2021 Fall.
-  * TA, *Complex Analysis*, 2022 Spring.
   * TA, *Functional Analysis*, 2023 Fall.
+  * TA, *Complex Analysis*, 2022 Spring.
+  * TA, *Principle of Mathematical Analysis*, 2021 Fall.
 
 * **Seminar organiser**, Harbin Institute of Technology, 2020-2021.
-  * Seminar, *Measure theory and integration theory*, 2020 Spring.
   * Seminar, *Group representations and abstract harmonic analysis*, 2020 Fall - 2021 Spring.
+  * Seminar, *Measure theory and integration theory*, 2020 Spring.
  
 Languages
 ======
