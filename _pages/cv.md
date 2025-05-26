@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Mathematics**, Universite Paris-Saclay, 2025.
+* **Ph.D. student**, Université Paris Cité, 2025 - Now.
+  * Supervised by [Prof. Andrzej Zuk](https://webusers.imj-prg.fr/~andrzej.zuk/index.html).
+* **M.S. in Mathematics**, Université Paris-Saclay, 2025.
   * Supervised by [Prof. Andrzej Zuk](https://webusers.imj-prg.fr/~andrzej.zuk/index.html).
   * Thesis: *Spectral Analysis of Symmetric Random Walks on Groups*.
 * **M.S. in Mathematics**, Fudan University, 2024.
