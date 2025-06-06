@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 2nd-year master student in [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/).
+I am a PhD student in [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/) and [Université Paris Cité](https://u-paris.fr/).
 
 My research interest includes operator algebra, geometric group theory, K-theory and non-commutative geometry.
 
