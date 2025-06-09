@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Shuoyu Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Student in Paris-Saclay University"
-  location         : "Orsay, Ile-de-France, France"
-  employer         : "Universite Paris-Saclay"
+  bio              : "Student in Université Paris Cité"
+  location         : "Paris, France"
+  employer         : "IMJ-PRG"
   uri              : # URL
   email            : "shuoyuyan42@gmail.com" 
 
