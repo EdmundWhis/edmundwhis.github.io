@@ -47,5 +47,7 @@ At its core, Mirage Project is a personal attempt to build a coherent and naviga
 The project is ongoing and evolving. As my understanding grows, so too does the structure of Mirage. It is both a snapshot of current insight and a dynamic document meant to be refined over time.
 
 Here is a list of the materials that has completed or has been planned, indexed by academic year. All the materials would be written in **Chinese**.
+* Notes collection of academic year 2024/25: (Planning)
+* Notes collection of academic year 2023/24: Groupoids, Basics on Non-commutative Geometry.
 * Notes collection of academic year 2022/23: Analytic *K*-Homology and Index Theory.
 * Notes collection of academic year 2021/22: [*C\**-Algebras, *K*-Theory and Other Topics](../assets/notes/2021_22_Collection.pdf).
