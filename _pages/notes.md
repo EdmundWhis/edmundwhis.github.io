@@ -19,6 +19,7 @@ Here is a list of the topics:
 * Year 2024/25
   * [Harmonic Analysis](../assets/notes/HA_Lecture_Notes.pdf), EN1722, taught by Prof. Pascal AUSCHER, 2024 Fall, Universite Paris-Saclay.
   * [Index Theory](../assets/notes/Index_Theory_Notes.pdf), EN1713, taught by Prof. Martin PUCHOL, 2025 Spring, Universite Paris-Saclay.
+  * [Groups, Amenability and Other Topics](../assets/notes/Groups_Amenability.pdf), a combination note for the course *C\**-simplicity taught by Prof. Romain TESSERA in Universite Paris Cite and the course [Groups and Amenability](https://www.imo.universite-paris-saclay.fr/~bruno.duchesne/enseignement/groups_and_amenability/) taught by Prof. Bruno DUCHESNE in Universite Paris-Saclay.
 * Year 2023/24
   * Higher Index Theory *(under construction)*, 2023 Fall, Fudan University.
 * Year 2022/23
