@@ -21,7 +21,7 @@ Education
   * Thesis: *Global Witten deformation on Lie groupoids*.
 * **B.S. in Mathematics** Harbin Institute of Technology, 2021.
   * Supervised by [Prof. Jinsong Wu](https://www.bimsa.cn/zh-CN/detail/jinsongwu.html), graduated with honours.
-  * Thesis: *Bi-shifts of bi-projections on quantum groups*.
+  * Thesis: *Hausdorff-Young inequality on finite groups*.
 
 Research Interests
 ======
@@ -34,10 +34,6 @@ Teaching and Advising
   * TA, *Functional Analysis*, 2023 Fall.
   * TA, *Complex Analysis*, 2022 Spring.
   * TA, *Principle of Mathematical Analysis*, 2021 Fall.
-
-* **Seminar organiser**, Harbin Institute of Technology, 2020-2021.
-  * Seminar, *Group representations and abstract harmonic analysis*, 2020 Fall - 2021 Spring.
-  * Seminar, *Measure theory and integration theory*, 2020 Spring.
  
 Languages
 ======
