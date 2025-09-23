@@ -29,14 +29,9 @@ Here is a list of the topics:
   * Spectral Theory, 2021 Fall, Fudan University.
   * Functional Analysis (Sp1, Sp2), 2021 Fall - 2022 Spring, Fudan University.
   * Operator Algebra, 2022 Spring - 2022 Fall, Fudan University.
-* Year 2019/20
-  * Functional Analysis, 2019 Fall, Harbin Institute of Technology.
-  * Classical differential geomerty, 2020 Spring, Harbin Institute of Technology.
 * Year 2018/19
   * General Topology, 2019 Spring, Fudan University.
   * Real Analysis, 2019 Spring, Fudan University.
-* Year 2017/18
-  * Integers and polynomials, 2017 Fall, Harbin Institute of Technology.
  
 Mirage Project
 ======
