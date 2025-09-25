@@ -19,8 +19,8 @@ Education
 * **M.S. in Mathematics**, Fudan University, 2024.
   * Supervised by [Prof. Yijun Yao](https://math.fudan.edu.cn/fa/00/c30607a326144/page.htm), graduated with honours.
   * Thesis: *Global Witten deformation on Lie groupoids*.
-* **B.S. in Mathematics** Harbin Institute of Technology, 2021.
-  * Supervised by [Prof. Jinsong Wu](https://www.bimsa.cn/zh-CN/detail/jinsongwu.html), graduated with honours.
+* **B.S. in Mathematics**, Harbin Institute of Technology, 2021.
+  * Supervised by [Prof. Jinsong Wu](https://www.bimsa.cn/zh-CN/detail/jinsongwu.html). <!-- graduated with honours. -->
   * Thesis: *Hausdorff-Young inequality on finite groups*.
 
 Research Interests
